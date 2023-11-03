@@ -1,5 +1,10 @@
 # Hands-on-AWS-Penetration-Testing
-🔒💥 Exciting Resource Alert for Cybersecurity Professionals! 💥🔒I’ve stumbled upon a gem of a resource that’s a MUST-READ for anyone involved in cloud security or aspiring to break into this domain! 📘💡 Presenting a comprehensive 129-page guide: "Hands on AWS Penetration Testing" that peels back the layers of AWS security, giving you insights and practical know-how on securing and penetrating AWS environments.
+
+🔒💥 Exciting Resource Alert for Cybersecurity Professionals! 💥🔒
+
+I’ve stumbled upon a gem of a resource that’s a MUST-READ for anyone involved in cloud security or aspiring to break into this domain!
+
+📘💡 Presenting a comprehensive 129-page guide: "Hands on AWS Penetration Testing" that peels back the layers of AWS security, giving you insights and practical know-how on securing and penetrating AWS environments.
 
 This manual isn’t just theory; it’s a practical walkthrough that gears you up for the real-world scenarios you’ll face in the cloud! 🚀
 
