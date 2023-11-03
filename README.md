@@ -4,6 +4,7 @@
 This manual isn’t just theory; it’s a practical walkthrough that gears you up for the real-world scenarios you’ll face in the cloud! 🚀
 
 Dive into topics like:
+
 ✅ EC2 Instance setup and the myriad of storage options including EBS, EFS, and S3.
 
 ✅ How to retrieve deleted data from Elastic Block Stores and Snapshots.
