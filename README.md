@@ -16,3 +16,6 @@ Dive into topics like:
 Whether you're an ethical hacker, a security analyst, or an IT professional responsible for your organization's cloud security posture, this is the kind of material that can elevate your skills to the next level! 🚀
 
 Grab your digital copy, dive in, and let’s discuss the best practices and potential improvements to our security strategies. Together, let's fortify our defenses and ensure our cloud infrastructure is impenetrable! 🛡️
+
+
+# https://github.com/manikanta-suru/Hands-on-AWS-Penetration-Testing.git
