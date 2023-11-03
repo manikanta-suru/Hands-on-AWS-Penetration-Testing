@@ -5,12 +5,19 @@ This manual isn’t just theory; it’s a practical walkthrough that gears you u
 
 Dive into topics like:
 ✅ EC2 Instance setup and the myriad of storage options including EBS, EFS, and S3.
+
 ✅ How to retrieve deleted data from Elastic Block Stores and Snapshots.
+
 ✅ Tactics for identifying and exploiting vulnerable S3 Buckets.
+
 ✅ Mastering IAM Roles, Groups, and API Request Signing for solidifying your AWS fortress.
+
 ✅ The dark arts of Privilege Escalation using Boto3, and Pacu for advanced AWS navigation.
+
 ✅ Ingenious methods for persisting backdoors within AWS services.
+
 ✅ Comprehensive coverage on Pentesting Lambda, Route53, SES, and CloudFormation.
+
 ✅ Not to mention, exclusive chapters on outsmarting CloudTrail and GuardDuty!
 
 Whether you're an ethical hacker, a security analyst, or an IT professional responsible for your organization's cloud security posture, this is the kind of material that can elevate your skills to the next level! 🚀
